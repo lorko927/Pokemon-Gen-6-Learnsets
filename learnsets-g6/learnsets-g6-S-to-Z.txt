@@ -271,6 +271,7 @@ TM - Taunt
 TM - Double Team
 TM - Rock Tomb
 TM - Confide
+Egg - Quick Guard
 
 
 == Scyther ==
@@ -369,6 +370,8 @@ Egg - Swallow
 Egg - Signal Beam
 Egg - Icicle Spear
 Egg - Water Pulse
+Egg - Entrainment
+Egg - Belch
 
 == Sentret ==
 
@@ -539,6 +542,7 @@ Egg - Yawn
 Egg - Brine
 Egg - Trump Card
 Egg - Clear Smog
+Egg - Acid Armor
 
 == Shelmet ==
 
@@ -972,6 +976,8 @@ TM - Retaliate
 TM - Bulldoze
 TM - Wild Charge
 TM - Confide
+Egg - Rollout
+Egg - Defense Curl
 
 == Skitty ==
 
@@ -1158,6 +1164,8 @@ TM - Confide
 Egg - Toxic Spikes
 Egg - Haze
 Egg - Venom Drench
+Egg - Play Rough
+Egg - Acd Armor
 
 == Slakoth ==
 
@@ -1383,6 +1391,7 @@ Egg - Block
 Egg - Me First
 Egg - Zen Headbutt
 Egg - Wonder Room
+Egg - Belch
 TM03 - Psyshock
 TM04 - Calm Mind
 TM06 - Toxic
@@ -1945,6 +1954,7 @@ Egg - Toxic Spikes
 Egg - Night Slash
 Egg - Rage Powder
 Egg - Electroweb
+Egg - Megahorn
 
 == Spinda ==
 
@@ -2037,6 +2047,10 @@ TM - Round
 TM - Echoed Voice
 TM - Dazzling Gleam
 TM - Confide
+Egg - Refresh
+Egg - Wish
+Egg - Disable
+Egg - Captivate
 
 == Squirtle ==
 
@@ -2062,6 +2076,8 @@ Egg - Muddy Water
 Egg - Brine
 Egg - Aqua Ring
 Egg - Aqua Jet
+Egg - Dragon Pulse
+Egg - Aura Sphere
 
 == Stantler ==
 
@@ -2118,6 +2134,7 @@ Egg - Yawn
 Egg - Astonish
 Egg - Shock Wave
 Egg - Earth Power
+Egg - Eerie Impulse
 
 == Stunky ==
 
@@ -2133,6 +2150,7 @@ Egg - Astonish
 Egg - Punishment
 Egg - Flame Burst
 Egg - Foul Play
+Egg - Rough Play
 
 == Sudowoodo ==
 
@@ -2176,6 +2194,8 @@ Egg - Signal Beam
 Egg - Mud Shot
 Egg - Bug Bite
 Egg - Aqua Jet
+Egg - Fell Stinger
+Egg - Power Split
 
 == Swablu ==
 
@@ -2208,6 +2228,7 @@ Egg - Mud Shot
 Egg - Avalanche
 Egg - Stealth Rock
 Egg - Icicle Crash
+Egg - Freeze-Dry
 
 == Swirlix ==
 
@@ -2256,6 +2277,10 @@ TM - Energy Ball
 TM - Round
 TM - Dazzling Gleam
 TM - Confide
+Egg - Belly Drum
+Egg - Copy Cat
+Egg - After You
+Egg - Yawn
 
 == Sylveon ==
 
@@ -2459,6 +2484,7 @@ Egg - smellingsalts
 Egg - Force Palm
 Egg - Drain Punch
 Egg - Wide Guard
+Egg - Cross Chop
 
 == Tirtouga ==
 
@@ -2805,6 +2831,12 @@ TM - Round
 TM - Bulldoze
 TM - Dragon Tail
 TM - Confide
+Egg - Thunder Fang
+Egg - Ice Fang
+Egg - Fire Fang
+Egg - Poison Fang
+Egg - Dragon Dance
+Egg - Curse
 
 == Unown ==
 
@@ -3099,6 +3131,7 @@ Egg - Swallow
 Egg - Mud Sport
 Egg - Acid Spray
 Egg - After You
+Egg - Eerie Impulse
 
 == Wormadam ==
 
