@@ -71,6 +71,10 @@ TM - Retaliate
 TM - Bulldoze
 TM - Confide
 TM - Power-Up Punch
+Egg - Foul Play
+Egg - Quick Guard
+Egg - Storm Throw
+Egg - Me First
 
 == Pangoro ==
 
@@ -238,6 +242,7 @@ Egg - Metal Claw
 Egg - Natural Gift
 Egg - Cross Poison
 Egg - Bug Bite
+Egg - Fell Stinger
 
 == Parasect ==
 
@@ -323,6 +328,7 @@ Egg - Endeavor
 Egg - Ice Shard
 Egg - Head Smash
 Egg - Heavy Slam
+Egg - Rough Play
 
 == Phantump ==
 
@@ -376,6 +382,10 @@ TM - Grass Knot
 TM - Round
 TM - Bulldoze
 TM - Confide
+Egg - Bestow
+Egg - Imprison
+Egg - Grudge
+Egg - Venom Drench
 
 == Phione ==
 
@@ -398,6 +408,7 @@ Egg - Tickle
 Egg - Volt Tackle
 Egg - Lucky Chant
 Egg - Bestow
+Egg - Disarming Voice
 
 == Pidgey ==
 
@@ -442,6 +453,7 @@ Egg - Uproar
 Egg - Wish
 Egg - Lucky Chant
 Egg - Bestow
+Egg - Night Slash
 
 == Pikachu ==
 
@@ -609,6 +621,7 @@ Egg - Sucker Punch
 Egg - Thunder Fang
 Egg - Ice Fang
 Egg - Fire Fang
+Egg - Rough Play
 
 == Porygon ==
 
@@ -693,6 +706,9 @@ TM - Flame Charge
 TM - Round
 TM - Incinerate
 TM - Confide
+Egg - Destiny Bond
+Egg - Disable
+Egg - Bestow
 
 == Purrloin ==
 
@@ -958,6 +974,7 @@ Egg - Mud Shot
 Egg - Rock Blast
 Egg - Water Pulse
 Egg - Acid Spray
+Egg - Entrainment
 
 == Rhyhorn ==
 
@@ -1012,6 +1029,8 @@ Egg - Thunder Fang
 Egg - Ice Fang
 Egg - Fire Fang
 Egg - Rock Climb
+Egg - Rototiller
+Egg - Metal Burst
 
 == Riolu ==
 
