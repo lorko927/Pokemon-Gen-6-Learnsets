@@ -2393,6 +2393,7 @@ Egg - Flatter
 Egg - Charge
 Egg - Odor Sleuth
 Egg - After You
+Egg - Eerie Impulse
 
 == Marill ==
 
@@ -2606,6 +2607,7 @@ Egg - Guard Swap
 Egg - Drain Punch
 Egg - Bullet Punch
 Egg - Psycho Cut
+Egg - Quick Guard
 
 == Meganium ==
 
@@ -3174,6 +3176,7 @@ Egg - Baton Pass
 Egg - Helping Hand
 Egg - Magic Coat
 Egg - Secret Power
+Egg - Healing Wish
 
 == Murkrow ==
 
